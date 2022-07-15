@@ -18,6 +18,11 @@ body {
   color: var(--text-color);
 }
 
+#conteudo {
+  width: 150rem;
+  margin: 0 auto;
+}
+
 .cards {
   background: var(--bg-cards);
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
